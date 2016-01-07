@@ -1,0 +1,68 @@
+@font-face {
+    font-family: "돋움";
+    src: local("SpoqaHanSans"), local("Apple SD Gothic Neo"), local("Nanum Gothic");
+}
+@font-face {
+    font-family: Dotum;
+    src: local("SpoqaHanSans"), local("Apple SD Gothic Neo"), local("Nanum Gothic");
+}
+@font-face {
+    font-family: DotumChe;
+    src: local("SpoqaHanSans"), local("Apple SD Gothic Neo"), local("Nanum Gothic");
+}
+@font-face {
+    font-family: "굴림";
+    src: local("SpoqaHanSans"), local("Apple SD Gothic Neo"), local("Nanum Gothic");
+}
+@font-face {
+    font-family: Gulim;
+    src: local("SpoqaHanSans"), local("Apple SD Gothic Neo"), local("Nanum Gothic");
+}
+@font-face {
+    font-family: GulimChe;
+    src: local("SpoqaHanSans"), local("Apple SD Gothic Neo"), local("Nanum Gothic");
+}
+@font-face {
+    font-family: AppleGothic;
+    src: local("SpoqaHanSans"), local("Apple SD Gothic Neo"), local("Nanum Gothic");
+}
+@font-face {
+    font-family: "Apple SD Gothic NEO";
+    src: local("SpoqaHanSans"), local("Apple SD Gothic Neo"), local("Nanum Gothic");
+}
+@font-face {
+    font-family: NanumGothic;
+    src: local("SpoqaHanSans"), local("Apple SD Gothic Neo"), local("Nanum Gothic");
+}
+@font-face {
+    font-family: "나눔고딕";
+    src: local("SpoqaHanSans"), local("Apple SD Gothic Neo"), local("Nanum Gothic");
+}
+@font-face {
+    font-family: MalgunGothic;
+    src: local("SpoqaHanSans"), local("Apple SD Gothic Neo"), local("Nanum Gothic");
+}
+@font-face {
+    font-family: "맑은고딕";
+    src: local("SpoqaHanSans"), local("Apple SD Gothic Neo"), local("Nanum Gothic");
+}
+@font-face {
+    font-family: Helvetica;
+    src: local("SpoqaHanSans"), local("Apple SD Gothic Neo"), local("Nanum Gothic");
+}
+@font-face {
+    font-family: "Helvetica Neue";
+    src: local("SpoqaHanSans"), local("Apple SD Gothic Neo"), local("Nanum Gothic");
+}
+@font-face {
+    font-family: Verdana;
+    src: local("SpoqaHanSans"), local("Apple SD Gothic Neo"), local("Nanum Gothic");
+}
+@font-face {
+    font-family: sans-serif;
+    src: local("SpoqaHanSans"), local("Apple SD Gothic Neo"), local("Nanum Gothic");
+}
+@font-face {
+    font-family: monospace;
+    src: local("Source Code Pro");
+}
